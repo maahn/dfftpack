@@ -1,0 +1,3 @@
+libdfftpack.a
+*.o
+.DS_Store
